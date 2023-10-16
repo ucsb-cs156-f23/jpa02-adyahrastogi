@@ -1,6 +1,6 @@
 # jpa02-adyahrastogi
 
-Repo: https://ucsb-cs156-f23/jpa02-adyahrastogi
+Repo: https:/github.com/ucsb-cs156-f23/jpa02-adyahrastogi
 
 Deployed at: https://jpa02-adyahrastogi.dokku-11.cs.ucsb.edu/
 
